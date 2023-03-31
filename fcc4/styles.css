@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+#nav-bar {
+  top: 0;
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+}
+
+@media(orientation: landscape) {
+    body {
+        max-height: 100%;
+    }
+}

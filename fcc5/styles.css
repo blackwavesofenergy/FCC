@@ -1,0 +1,12 @@
+@media (max-width: 400px) {
+    * {
+        font-size: 8px;
+    }
+  }
+  
+
+nav {
+    top: 0;
+    position: fixed;
+}
+
